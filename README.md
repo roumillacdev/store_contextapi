@@ -21,7 +21,7 @@ npm install
 Execute o projeto:<br>
 npm start start
 
-# A aplicação estará disponível em http://localhost:3000.
+A aplicação estará disponível em http://localhost:3000.
 
 # Scripts Disponíveis
 yarn start: Inicia o projeto no modo de desenvolvimento.
