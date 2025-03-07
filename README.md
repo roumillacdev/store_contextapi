@@ -1,7 +1,7 @@
 # Store Context API
 Store Context API é um projeto desenvolvido para demonstrar o uso da Context API do React. A aplicação simula um sistema de loja online, onde o estado global da aplicação é gerenciado através da Context API, permitindo o controle de funcionalidades como o carrinho de compras, preferências do usuário, e mais.<br>
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 React<br>
 Context API<br>
 JavaScript<br>
@@ -17,17 +17,11 @@ Simulação de uma loja online.<br>
 Clone este repositório.<br>
 Navegue até a pasta do projeto.<br>
 Instale as dependências:<br>
+npm install
+Execute o projeto:<br>
+npm start start
 
-bash
-Copiar
-yarn install
-Execute o projeto:
-
-bash
-Copiar
-yarn start
-
-A aplicação estará disponível em http://localhost:3000.
+# A aplicação estará disponível em http://localhost:3000.
 
 # Scripts Disponíveis
 yarn start: Inicia o projeto no modo de desenvolvimento.
