@@ -7,7 +7,7 @@ Context API<br>
 JavaScript<br>
 CSS<br>
 
-#Funcionalidades
+# Funcionalidades
 Gerenciamento global do estado com Context API.<br>
 Controle de carrinho de compras.<br>
 Armazenamento de preferências do usuário.<br>
